@@ -170,13 +170,6 @@ permalink: /slides/intro/
 </section>
 
 <section>
-  <h4>Multi-fiber photometry recordings</h4>
-  <img src="../../assets/images/bonsai-npm.svg" alt="Neurophotometrics" />
-  <img src="https://github.com/neurophotometrics/neurophotometrics/wiki/images/calibrate-regions.gif" width="50%" alt="Neurophotometrics" />
-  <a href="https://neurophotometrics.com/">neurophotometrics.com</a>
-</section>
-
-<section>
   <h4>Interactive visual environments</h4>
   <img src="../../assets/images/bonsai-bonvision.svg" alt="BonVision" />
   <img src="https://bonvision.github.io/assets/Images/Demos/DemoAR_v3.gif" width="50%" alt="Augmented Reality in BonVision" />
@@ -194,11 +187,9 @@ permalink: /slides/intro/
 </section>
 
 <section>
-  <h4>Multi-animal tracking</h4>
-  <img src="../../assets/images/bonsai-bonzeb.svg" alt="BonZeb" />
-  <video data-autoplay src="https://github.com/ncguilbeault/BonZeb/raw/master/Videos/Supplemental%20video%206%20-%20Multi-animal%20tracking%20with%20OMR.mp4" height="300px"></video>
-  <a href="https://ncguilbeault.github.io/BonZeb/">ncguilbeault.github.io/BonZeb</a>
-  <p>Guilbeault et al., Sci Rep, 2021</p>
+  <h4>Intelligent experimentation</h4>
+  <img src="../../assets/images/bonsai-ml.svg" alt="Bonsai-ML" />
+  <a href="https://bonsai-rx.org/machinelearning/">bonsai-rx.org/machinelearning</a>
 </section>
 
 <section>
